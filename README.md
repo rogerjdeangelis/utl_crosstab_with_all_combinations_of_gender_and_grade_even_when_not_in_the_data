@@ -16,7 +16,7 @@ Crosstab with all combinations of gender and grade even when not in the data.   
      WORK.HAVE total obs=15      |                             RULES                                                                    
                                  |                             Frequencies                                                              
         DOV     SEX      GRADE   |                                                                                                      
-                                 |                                                        NOT ON DATA                                   
+                                 |                                                        NOT IN DATA                                   
         AUG    FEMALE      A     |        Female     Female   Female    Male       Male     Male                                        
         AUG    FEMALE      B     | Month  Grade=A    Grade=B  Grade=C   Grade=A    Grade=B  Grade=C                                     
         AUG    FEMALE      C     | AUG       1         1        2          1           1       0                                        
